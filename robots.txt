@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.whisperpowerspareparts.co.uk/sitemap.xml
+Sitemap: https://www.portal-aldan.ru/sitemap.xml
